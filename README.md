@@ -1,3 +1,5 @@
+LINK TO MOVIES DATABASE: https://drive.google.com/file/d/1X2WAngDM85mX1tfxqh4Nv1wfyZbzfWfM/view?usp=sharing
+
 # Comparing Sentence Embedding Models and Dimensionality Reduction for Movie Plot Similarity
 
 ## Overview
